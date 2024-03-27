@@ -31,13 +31,13 @@ programa
 
         // a)
         kelvin = (77 - 32) * 5/9 + 273.15
-        escreva("77F valem o mesmo que", kelvin,"K")
+        escreva("77ºF valem o mesmo que", kelvin,"K")
 
         escreva("\n-----\n")
 
         // b)
         fahrenheit = (80 * 9/5) + 32
-        escreva("A temperatura de 80oC equivale a: ", fahrenheit, "F")
+        escreva("A temperatura de 80ºC equivale a: ", fahrenheit, "ºF")
         
         escreva("\n-----\n")
 
@@ -52,6 +52,6 @@ programa
         CelsiusToKelvin = (CelsiusToFahrenheit - 32) * 5/9 + 273.15
         
 
-        escreva("os ", celsius, "C transformando para fahrenheit ficam", CelsiusToFahrenheit, "F e para kelvin", CelsiusToKelvin,"K")
+        escreva("os ", celsius, "ºC transformando para fahrenheit ficam", CelsiusToFahrenheit, "ºF e para kelvin ", CelsiusToKelvin,"K")
     }
 }
