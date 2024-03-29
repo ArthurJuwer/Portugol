@@ -7,17 +7,17 @@ programa {
 
   funcao inicio() {
     inteiro n1
-    escreva("Digite um numero para ser comparado com 100? \nRESPOSTA: ")
+    escreva("Digite um número para ser comparado com 100? \nRESPOSTA: ")
     leia(n1)
 
     se(n1 > 100){
-      escreva("O numero ", n1, " que você escolheu é maior que 100")
+      escreva("O número ", n1, " que você escolheu é maior que 100")
     } // EXTRAS
     senao se(n1 < 100){
-      escreva("O numero ", n1, " que você escolheu é menor que 100")
+      escreva("O número ", n1, " que você escolheu é menor que 100")
     }   
     senao se(n1 == 100){
-      escreva("O numero ", n1, " que você escolheu é igual que 100")
+      escreva("O número ", n1, " que você escolheu é igual que 100")
     } 
   }
 }
