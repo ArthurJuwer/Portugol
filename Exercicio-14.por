@@ -1,7 +1,7 @@
 programa {
     // Lista de Exercícios II
 
-    // 14. ]
+    // 14. Cálculo do Salário Líquido
 
     // - Elabore um algoritmo que, após receber o salário bruto, 
     // calcule o salário líquido aplicando um desconto de 10% para salários abaixo de R$ 2000 e 20% para salários iguais ou superiores a R$ 2000. 
