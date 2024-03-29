@@ -1,6 +1,6 @@
 programa
 {
-    // Lista de Exercícios
+    // Lista de Exercícios I
 
     // 6. Um grande problema que o mundo tem atualmente é a quantidade de unidades que existem para representar a mesma coisa. 
     // Por exemplo, para representar a Massa de um corpo, podemos usar quilograma (kg), onça (oz) e até libra (lb). Para representar Distâncias, existem metro (m), pés (ft), milha (mi). Até para volumes, há várias opções: litro (l), galão (gal),  xícaras (xic). Dada essa introdução, faça o que se pede:

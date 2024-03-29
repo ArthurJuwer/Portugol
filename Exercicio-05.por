@@ -1,6 +1,6 @@
 programa
 {   
-    // Lista de Exercícios
+    // Lista de Exercícios I
 
     // 5. Quilowatt-hora é uma unidade de energia; e é muito utilizada para se determinar o consumo de energia elétrica em residências. 
     // Sabe-se que o quilowatt-hora de energia custa R$0.05. Faça um programa que receba a quantidade de quilowatts consumida por uma residência.
