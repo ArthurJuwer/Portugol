@@ -5,8 +5,7 @@ programa {
 
     // - Desenvolva um algoritmo que leia uma senha fornecida pelo usuário, composta por caracteres, 
     // para informar se a senha é válida ou inválida. A senha correta é "PORTUGOL". O algoritmo não deve diferenciar entre letras maiúsculas e minúsculas.
-    // SEM USO DE BIBLIOTECAS
-
+    
   funcao inicio() {
     escreva("---VALIDAÇÃO DE SENHA---\n\n")
 
