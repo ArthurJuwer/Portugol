@@ -15,10 +15,10 @@ programa {
     
     se((num % 5) == 0)
     {
-      escreva("O numero que você escolheu pode ser divisível  por 5")
+      escreva("O número que você escolheu pode ser divisível  por 5")
     }
     senao{
-      escreva("O numero que você escolheu não pode ser divisível  por 5")
+      escreva("O número que você escolheu não pode ser divisível  por 5")
     }
   }   
 }
