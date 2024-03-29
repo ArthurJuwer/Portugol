@@ -6,7 +6,7 @@ programa {
     // - Elabore um algoritmo que leia um número e alerte quando o mesmo estiver entre 100 e 500.
 
   funcao inicio() {
-    escreva("---INTERVALO NUMÉRICO---\n\n")
+    escreva("---INTERVALO NUMÉRICO 100 e 500---\n\n")
 
     inteiro num
     escreva("Digite um número para ver se ele está entre 100 e 500.\nREPOSTA: ")
