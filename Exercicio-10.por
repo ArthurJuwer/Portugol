@@ -1,7 +1,7 @@
 programa {
     // Lista de Exercícios II
 
-    // 10. Cálculo da Média e Verificação de Aprovação
+    // 10. Verificação de Aprovação
     //- Crie um algoritmo que leia duas notas, calcule a média do aluno e determine se ele foi aprovado (média ≥ 7) ou reprovado.
 
   funcao inicio() {
