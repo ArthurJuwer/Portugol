@@ -3,7 +3,7 @@ programa {
 
     // 7. Alerta de Número Maior que 100
 
-    // - Crie um algoritmo que leia um número e alerte quando o mesmo for maior que 100.
+    // - Crie um algoritmo que leia um número e alerte quando ele for maior que 100.
 
   funcao inicio() {
     inteiro n1
