@@ -1,0 +1,31 @@
+# Lista de Exercícios III
+
+# Exercícios
+
+22. Desenvolva um programa que calcule a média de três notas e determine se o aluno está aprovado, se a média for maior que 6.
+
+23. Crie um conversor de Celsius para Fahrenheit.
+
+24. Verifique se um número é par ou ímpar.
+
+25. Calcule área e perímetro de um retângulo.
+
+26. Aplique descontos baseados na quantidade de itens comprados.
+
+27. Determine se um ano é bissexto.
+
+28. Execute operações matemáticas básicas, faça uma função para cada operação.
+
+29. Classifique a idade de uma pessoa em categorias.
+
+30. Mostre a tabuada de um número.
+
+31. Calcule a distância entre dois pontos no plano cartesiano.
+
+32. Conte o número de vezes que uma letra aparece em uma frase.
+
+33. Calcule o juros de 10% de uma comissão em cima de uma compra. 
+
+34. Determine se um número é primo.
+
+35. Converta minutos em horas e minutos.
