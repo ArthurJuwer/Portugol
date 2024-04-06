@@ -1,0 +1,61 @@
+# Lista de Exercícios II
+
+### 7. Alerta de Número Maior que 100
+
+- Crie um algoritmo que leia um número e alerte quando o mesmo for maior que 100.
+
+### 8. Validação de Senha
+
+- Desenvolva um algoritmo que leia uma senha fornecida pelo usuário, composta por caracteres, para informar se a senha é válida ou inválida. A senha correta é "PORTUGOL". O algoritmo não deve diferenciar entre letras maiúsculas e minúsculas.
+
+### 9. Intervalo Numérico Específico
+
+- Elabore um algoritmo que leia um número e alerte quando o mesmo estiver entre 100 e 500.
+
+### 10. Cálculo da Média e Verificação de Aprovação
+
+- Crie um algoritmo que leia duas notas, calcule a média do aluno e determine se ele foi aprovado (média ≥ 7) ou reprovado.
+
+### 11. Divisibilidade por 5
+
+- Implemente um algoritmo que leia um número inteiro e informe se ele é divisível por 5.
+
+### 12. Par ou Ímpar
+
+- Crie um algoritmo que leia um número inteiro e informe se ele é par ou ímpar.
+
+### 13. Determinação do Maior Valor
+
+- Desenvolva um algoritmo que leia dois valores diferentes e determine qual é o maior.
+
+### 14. Cálculo do Salário Líquido
+
+- Elabore um algoritmo que, após receber o salário bruto, calcule o salário líquido aplicando um desconto de 10% para salários abaixo de R$ 2000 e 20% para salários iguais ou superiores a R$ 2000. Exiba o salário líquido ao final.
+
+### 15. Cálculo de Lucro na Venda
+
+- Crie um algoritmo que determine o valor de venda de um produto, considerando um lucro de 50% se a compra foi abaixo de R$ 200 e 30% para compras de R$ 200 ou mais.
+
+### 16. Cálculo de Média Final
+
+- Implemente um algoritmo que leia a média das duas unidades de um aluno para calcular sua média final. Exiba a média final e o resultado (aprovado, prova final ou reprovado). Considere 7 para aprovação, menor que 3 para reprovação, e entre esses valores para prova final.
+
+### 17. Classificação de Triângulos
+
+- Desenvolva um algoritmo que leia os três lados de um triângulo e classifique-o como equilátero, isósceles ou escaleno.
+
+### 18. Exibição do Maior Número
+
+- Crie um algoritmo que leia três números e exiba o maior entre eles. Se os números forem iguais, exiba a mensagem: "Números idênticos".
+
+### 19. Ordenação de Números
+
+- Implemente um algoritmo que leia três números e os exiba em ordem crescente.
+
+### 20. Segundo Turno em Eleições Municipais
+
+- Elabore um algoritmo que leia o nome do município, a quantidade de eleitores e o número de votos do candidato mais votado, e informe se haverá ou não segundo turno na eleição municipal.
+
+### 21. Consumo Estimado de Combustível
+
+- Crie um algoritmo que leia o percurso em quilômetros, o tipo do carro (A, B ou C) e informe o consumo estimado de combustível. Alerta para tipos de carro inválidos.

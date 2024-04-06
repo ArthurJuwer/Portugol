@@ -1,0 +1,80 @@
+# Lista de Exercícios I
+
+1. Faça um programa que:
+    
+    a) Contenha uma variável para a sua idade
+    
+    b) Contenha uma variável com o nome do seu melhor amigo ou da sua melhor amiga
+    
+    c) **Exiba no console** a seguinte mensagem: "Sua idade é xx e a do seu amigo é yy”
+    
+    d) **Exiba no console** a diferença de idade entre vocês
+    
+    e) **Exiba no console** o ano de nascimento de cada um, utilizando a idade para calcular
+    
+2. Faça um programa que:
+    
+    a) Contenha uma variável que seja um número **par**
+    
+    b) Exiba na console **o resto da divisão** desse número por 2.
+    
+    c) Teste o programa com diversos números pares. Você notou um padrão? 
+    
+    d) O que acontece se usarmos um número ímpar?
+    
+3. Faça um programa pergunte a idade do usuário em anos. Depois, exiba no console:
+    
+    a) A idade em meses
+    
+    b) A idade em dias
+    
+    c) A idade em horas
+    
+4. Para este exercício, será necessário o conhecimento das fórmulas para mudar a unidade de temperatura entre Graus Celsius(°C),  Graus Fahrenheit(°F) e Kelvin(K). Abaixo estão duas delas:
+    - Graus Fahrenheit(°F) para Kelvin(K)
+        
+        ```
+        (KELVIN) = (GRAUS_FAHRENHEIT - 32)*(5/9) + 273.15
+        ```
+        
+    - Graus Celsius(°C) para Graus Fahrenheit (°C)
+        
+        ```
+        (GRAUS_FAHRENHEIT) = (GRAUS_CELSIUS)*(9/5) + 32
+        ```
+        
+        a) Calcule e mostre o valor de 77°F em  K, mostrando a unidade no console também.
+        
+        b) Calcule e mostre o valor de 80°C em °F, mostrando a unidade no console também.
+        
+        c) Calcule e mostre o valor de 30°C em °F e K, mostrando as unidades no console também. Pesquise a formula se necessário.
+        
+        d) Altere a questão C para que ela receba do usuário a temperatura em Celsius.
+        
+5. Quilowatt-hora é uma unidade de energia; e é muito utilizada para se determinar o consumo de energia elétrica em residências. Sabe-se que o quilowatt-hora de energia custa R$0.05. Faça um programa que receba a quantidade de quilowatts consumida por uma residência.
+    
+    a) Calcule e mostre o valor a ser pago por uma residência que consuma 280 quilowatt-hora
+    
+    b) Altere o programa para utilizar mais um valor: a porcentagem de desconto. Calcule e mostre o valor a ser pago pela mesma residência acima considerando 10% de desconto
+    
+6. Um grande problema que o mundo tem atualmente é a quantidade de unidades que existem para representar a mesma coisa. Por exemplo, para representar a Massa de um corpo, podemos usar quilograma (kg), onça (oz) e até libra (lb). Para representar Distâncias, existem metro (m), pés (ft), milha (mi). Até para volumes, há várias opções: litro (l), galão (gal),  xícaras (xic). Dada essa introdução, faça o que se pede:
+    
+    a) Procure uma forma de converter libra (lb) para quilograma (kg) e escreva um programa que converta 20lb para kg. Imprima a resposta no console da seguinte forma: 
+    `20lb equivalem a X kg`
+    
+    b) Procure uma forma de converter onça (oz) para quilograma (kg) e escreva um programa que converta 10.5oz para kg. Imprima a resposta no console da seguinte forma: 
+    `10.5oz equivalem a X kg`
+    
+    c) Procure uma forma de converter milha (mi) para metro (m) e escreva um programa que converta 100mi para m. Imprima a resposta no console da seguinte forma: 
+    `100mi equivalem a X m`
+    
+    d) Procure uma forma de converter pés (ft) para metro (m) e escreva um programa que converta 50ft para m. Imprima a resposta no console da seguinte forma: 
+    `50ft equivalem a X m`
+    
+    e) Procure uma forma de converter galão (gal) para litro (l) e escreva um programa que converta 103.56gal para litro. Imprima a resposta no console da seguinte forma: 
+    `103.56gal equivalem a X l`
+    
+    f) Procure uma forma de converter xícara (xic) para litro (l) e escreva um programa que converta 450xic para litro. Imprima a resposta no console da seguinte forma: 
+    `450 xic equivalem a X l`
+    
+    e) Escolha uma das questões para alterar e perguntar pro usuário o valor a ser convertido.
