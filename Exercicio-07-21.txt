@@ -4,7 +4,7 @@
 
 - Crie um algoritmo que leia um número e alerte quando o mesmo for maior que 100.
 
-### 8. Validação de Senha
+### 8. Validação de Senha 
 
 - Desenvolva um algoritmo que leia uma senha fornecida pelo usuário, composta por caracteres, para informar se a senha é válida ou inválida. A senha correta é "PORTUGOL". O algoritmo não deve diferenciar entre letras maiúsculas e minúsculas.
 
