@@ -1,0 +1,22 @@
+# Lista de Exercícios IV
+
+# Exercícios condicionais
+
+## 36. Peça ao usuário que insira um número e use a estrutura se para determinar se o número é par ou ímpar.
+
+## 37. Solicite a idade do usuário e utilize se e senao para classificar o usuário como menor de idade ou maior de idade.
+
+## 38. Dado um valor de compra informado pelo usuário, aplique um desconto de 10% se o valor for superior a R$ 100,00, usando se e senao.
+
+## 39. Receba três números do usuário e utilize se, senao se, e senao para determinar qual é o maior número.
+
+## 40 Peça ao usuário para inserir uma nota de 0 a 100 e classifique-a em conceitos (A, B, C, D, E) usando múltiplas estruturas se e senao .
+
+## 41 Solicite dois números e uma operação matemática básica (+, -, *, /) como entrada. Use a estrutura escolha-caso para realizar a operação e mostrar o resultado.
+
+## 42 Dado o consumo de energia em kWh, calcule o valor da conta de luz. Utilize múltiplas condições para aplicar diferentes tarifas por faixa de consumo. 
+( Consultar o site da empresa de distribuição )
+
+## 43 Crie um sistema simples que, baseado na idade e no desempenho em teste (nota), decide se o candidato pode matricular curso específico.
+Utilize se, senao senao, escolha-caso para validar a elegibilidade determinar nível do (iniciante, intermediário, avançado)
+ 
