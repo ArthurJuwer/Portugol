@@ -1,5 +1,5 @@
 programa {
-  // lista de Exercicios IV
+  // lista de Exercicios 
 
   // 36. Peça ao usuário que insira um número e use a estrutura se para determinar se o número é par ou ímpar.
   funcao inicio() {
