@@ -1,5 +1,5 @@
 programa {
-  // lista de Exercicios IV
+  // lista de Exercicios VI
 
   // 40 Peça ao usuário para inserir uma nota de 0 a 100 e classifique-a em conceitos (A, B, C, D, E) usando múltiplas estruturas se e senao .
 
