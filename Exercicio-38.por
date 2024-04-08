@@ -1,5 +1,5 @@
 programa {
-  // lista de Exercicios IV
+  // lista de Exercicios VI
 
   // 38. Dado um valor de compra informado pelo usuário, aplique um desconto de 10% se o valor for superior a R$ 100,00, usando se e senao.
 
