@@ -35,10 +35,6 @@ programa {
         pare
       }
     }
-    escreva("o resultado da conta deu: ", resultado)
-    
-
-    
-  
+    escreva("o resultado deu: ", resultado)
   }
 }
