@@ -1,8 +1,8 @@
 programa {
-  // lista de Exercicios III
+  // lista de Exercicios IV
 
   // 37. Solicite a idade do usuário e utilize se e senao para classificar o usuário como menor de idade ou maior de idade.
-  
+
   funcao inicio() {
     escreva("---Menor ou maior de Idade?---\n\n")
 
