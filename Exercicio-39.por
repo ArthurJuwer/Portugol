@@ -1,5 +1,5 @@
 programa {
-  // lista de Exercicios IV
+  // lista de Exercicios VI
 
   // 39. Receba três números do usuário e utilize se, senao se, e senao para determinar qual é o maior número.
 
