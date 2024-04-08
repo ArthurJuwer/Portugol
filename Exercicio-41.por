@@ -1,39 +1,44 @@
 programa {
   // lista de Exercicios VI
 
-  // 40 Peça ao usuário para inserir uma nota de 0 a 100 e classifique-a em conceitos (A, B, C, D, E) usando múltiplas estruturas se e senao .
+  // 41. Solicite dois números e uma operação matemática básica (+, -, *, /) como entrada. Use a estrutura escolha-caso para realizar a operação e mostrar o resultado.
 
   funcao inicio() {
-    // a, e, i, o, u
+    escreva("---OPERAÇÕES MATEMATICAS---\n\n")
 
-    caracter vogal
-    escreva("Digite um vogal para ver a proxima. \nR= ")
-    leia(vogal)
- 
-    escolha(vogal){
-      caso 'a':{
-        escreva("a letra que vem depois de A -> E")
+    escreva("Digite 2 números, e depois a operação que deseja usar. \n---\n")
+
+    inteiro n1, n2, operacao, resultado
+    escreva("Numero 1: ")
+    leia(n1)
+    escreva("Numero 2: ")
+    leia(n2)
+
+    escreva("Qual operação que você deseja usar?\n[1] SOMA\n[2] SUBTRAÇÃO \n[3] MULTIPLICAÇÃO \n[4] DIVISÃO\nR=")
+    leia(operacao)
+
+    escolha(operacao){
+      caso 1:{
+        resultado = n1 + n2
         pare
       }
-      caso 'e':{
-        escreva("a letra que vem depois de E -> I")
+      caso 2:{
+        resultado = n1 - n2
         pare
       }
-      caso 'i':{
-        escreva("a letra que vem depois de I -> O")
+      caso 3:{
+        resultado = n1 * n2
         pare
       }
-      caso 'o':{
-        escreva("a letra que vem depois de O -> U")
+      caso 4:{
+        resultado = n1 / n2
         pare
       }
-      caso 'u':{
-        escreva("a letra que vem depois de U -> A")
-        pare
-      }
-      caso contrario:
-        escreva("A letra que você digitou nao é uma vogal")
     }
+    escreva("o resultado da conta deu: ", resultado)
+    
+
+    
+  
   }
 }
- 
