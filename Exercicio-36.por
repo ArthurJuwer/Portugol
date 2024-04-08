@@ -2,7 +2,6 @@ programa {
   // lista de Exercicios III
 
   // 36. Peça ao usuário que insira um número e use a estrutura se para determinar se o número é par ou ímpar.
-  
   funcao inicio() {
     escreva("---PAR OU ÍMPAR?---\n\n")
 
