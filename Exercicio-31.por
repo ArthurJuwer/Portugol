@@ -1,15 +1,20 @@
 programa {
-  // lista de Exercicios
+  // lista de Exercicios III
 
-  // 30. Mostre a tabuada de um número.
+  // 31. Calcule a distância entre dois pontos no plano cartesiano.
+
+  inclua biblioteca Matematica
+
   funcao inicio() {
-    escreva("----TABUADA DE UM NÚMERO----\n")
-    inteiro num, i
-    escreva("Digite um número para ver sua tabuada. \nR=")
-    leia(num)
+    escreva("----PLANO CARTESIANO----\n")
+    real x1, x2, y1, y2, d, k
+
+    escreva("Digite os valores para x1, y1, x2, y2. \nR=")
+    leia(x1, y1, x2, y2)
     
-    para(i = 1; i <= 10; i++){
-      escreva(num, " x ", i, " é igual a ", num * i, "\n")
+    k = (x1 - x2) * (x1 - x2) + (y1 - y2) * (y1 - y2)
+    d = Matematica.raiz(k, 2)
+
+    escreva("Distancia ", d,"\n\n")
     }
-  }
 }
