@@ -1,5 +1,5 @@
 programa {
-  // lista de Exercicios III
+  // lista de Exercicios
 
   // 30. Mostre a tabuada de um número.
   funcao inicio() {
