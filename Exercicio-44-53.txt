@@ -32,8 +32,4 @@
 
 52. A Loja Mamão com Açúcar está vendendo seus produtos em 5 prestações sem juros. Faça um algoritmo que receba um valor de uma compra e mostre o valor das prestações. 
 
-53. Elabore um algoritmo que leia um número, e se ele for maior do que 20, imprima a metade desse número. 
-
-54. Dado um número inteiro e determine se ele é ou não um número primo (um número primo é aquele que só é divisível por 1 e por ele próprio).
-
-55. Um comerciante comprou um produto e quer vendê-lo com um lucro de 45% se o valor da compra for menor que R$ 20,00, caso contrário o lucro será de 30%. Elabore um algoritmo que leia o valor do produto e imprima o valor de venda para o produto.
+53. Um comerciante comprou um produto e quer vendê-lo com um lucro de 45% se o valor da compra for menor que R$ 20,00, caso contrário o lucro será de 30%. Elabore um algoritmo que leia o valor do produto e imprima o valor de venda para o produto.
