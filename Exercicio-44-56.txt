@@ -35,3 +35,6 @@
 53. Um comerciante comprou um produto e quer vendê-lo com um lucro de 45% se o valor da compra for menor que R$ 20,00, caso contrário o lucro será de 30%. Elabore um algoritmo que leia o valor do produto e imprima o valor de venda para o produto.
 
 54. Faça um lista que receba 10 numeros e conte quantos deles estão no intervalo [10, 20] e quantos deles estao fora do intervalo, escrevendo estas informações.
+
+55. O fatorial de um numero inteiro e positivo (n!)
+
