@@ -38,3 +38,4 @@
 
 55. O fatorial de um numero inteiro e positivo (n!)
 
+56. Jogo FizzBuzz, se um numero for divisel por 3 apareça FIZZ, se for por 5 apareça BUZZ, se for por 3 e 5 apareça FIZZBUZZ
