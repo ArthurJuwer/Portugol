@@ -1,0 +1,9 @@
+# Lista de Exercícios VI
+
+# Exercicios de Função
+
+57. Criar funções para calcular o perimetro e area de um retângulo.
+
+58. Função que receba uma lista de numeros e retorne o maior numeros
+
+59. Função que calcule a media de 3 notas.
