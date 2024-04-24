@@ -9,3 +9,5 @@
 59. Função que calcule a media de 3 notas.
 
 60. Faça uma função que escreva os valores de um vetor.
+
+61. Desenvolver uma função que converta temperatura de Celsius para Fahrenheit
