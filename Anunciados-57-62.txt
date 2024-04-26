@@ -1,0 +1,15 @@
+# Lista de Exercícios VI
+
+# Exercicios de Função
+
+57. Criar funções para calcular o perimetro e area de um retângulo.
+
+58. Função que receba uma lista de numeros e retorne o maior numeros.
+
+59. Função que calcule a media de 3 notas.
+
+60. Faça uma função que escreva os valores de um vetor.
+
+61. Desenvolver uma função que converta temperatura de Celsius para Fahrenheit.
+
+62. Escreva uma função que receba um vetor de inteiros e inverta a ordem de seus elementos.
